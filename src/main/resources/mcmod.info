@@ -1,0 +1,16 @@
+[
+{
+  "modid": "beggarmod",
+  "name": "Beggar Mod",
+  "description": "A mod which eliminates messages of beggars",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["yi5#1057"],
+  "credits": "I suck at making mods, don't blame me if it doesn't work",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
