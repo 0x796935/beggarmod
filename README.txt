@@ -1,3 +1,8 @@
+I (yi5) copied some template and made a 1.8.9 forge mod as first project.
+This probably has more bugs than I can count. I also didn't look at the Java conventions, so don't expect nice looking code or well named variables.
+Basically, you can compile it with ./gradlew build and yeah..
+Release should also be available somewhere at the right there
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
